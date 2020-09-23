@@ -1,0 +1,46 @@
+#main {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+body {
+    background-color: #474787 !important;
+    font-family: 'Balsamiq Sans', cursive !important;
+}
+
+#b1 {
+    background-color: #40739e;
+}
+
+.my-world-title {}
+
+img {
+    box-shadow: 10px 10px 10px;
+    height: 300px;
+    width: 200px;
+}
+
+.container {
+    position: absolute;
+    left: 55%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#world {}
+
+body {
+    background: black;
+    font-family: "Varela", sans-serif;
+}
+
+#world {
+    background-color: black !important;
+    color: white;
+    margin-left: 15%;
+    margin-top: 20%;
+    font-family: 'Grandstander', cursive !important;
+    font-size: larger;
+}
