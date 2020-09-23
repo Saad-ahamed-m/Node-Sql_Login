@@ -21,7 +21,7 @@ npm run dev
 
 # Front Page
 
-<img src="/images/Application.png">
+<img src="images/Application.png">
 
 # Registration Form
 
@@ -40,4 +40,4 @@ npm run dev
 <img src="/images/World.png">
 
 
-                                                                  Happy Coding ! ?
+                                                                  Happy Coding ! 
