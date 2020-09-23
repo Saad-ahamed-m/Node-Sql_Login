@@ -25,19 +25,16 @@ npm run dev
 
 # Registration Form
 
-<img src="/images/Register.png">
+<img src="https://github.com/Saad-ahamed-m/Node-Sql_Login/blob/master/images/Register.PNG">
 
 # Login Form
 
-<img src="/images/Login.png">
+<img src="https://github.com/Saad-ahamed-m/Node-Sql_Login/blob/master/images/Login.PNG">
 
-# Login Form
-
-<img src="/images/Login.png">
 
 # Application UI
 
-<img src="/images/World.png">
+<img src="https://github.com/Saad-ahamed-m/Node-Sql_Login/blob/master/images/World.PNG">
 
 
                                                                   Happy Coding ! 
